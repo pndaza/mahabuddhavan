@@ -1,0 +1,16 @@
+<p><center><strong>ကျေးဇူးတင်လွှာ</center></strong></p>
+</br>
+<p>ပီဒီအက်နှင့် မှတ်သားဖွယ်အချက်အလက်များကို စိန်ရတနာမှရေးသားသော မဟာဗုဒ္ဓဝင်အပလီကေးရှင်း(အိုင်အိုအက်)မှ ရယူပါသည်။ မာတိကာအချက်အလက်များကို
+ <a href="https://www.facebook.com/tenukitengen">Ven Sirinda</a>,
+  <a href="https://www.facebook.com/khema.thiri.7">Khema Thiri</a>,
+  <a href="https://www.facebook.com/uvi.mala.1">Uvi Mala</a> တို့မှ ကူညီပါသည်။</p>
+</br>
+<p><center><strong>Libraries</center></strong></p>
+<ul>
+<li><a href="https://github.com/Rabbit-Converter/Rabbit">Rabbit Converter</a></li>
+<li><a href="https://github.com/dev-myatminsoe/MDetect">MDetect</a></li>
+<li><a href="https://github.com/timusus/RecyclerView-FastScroll">FastScroller for Android's RecyclerView</a></li>
+<li><a href="https://github.com/barteksc/AndroidPdfViewer">Android PdfViewer</a></li>
+<li><a href="https://github.com/SufficientlySecure/html-textview">HtmlTextView</a></li>
+</ul>
+<center>Developed by <a href="https://m.facebook.com/pndaza.mlm">Pn Daza</strong></a><em>
